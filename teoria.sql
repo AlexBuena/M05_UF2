@@ -1,20 +1,20 @@
 Llenguatge SQL:  DCL(RA1) + DDL + DML
-
-DDL: (Llenguatge de definició de dades): CREATE TABLE, DROP TABLE, ALTER TABLE,
+PATATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+DDL: (Llenguatge de definiciÃ³ de dades): CREATE TABLE, DROP TABLE, ALTER TABLE,
 TRUNCATE TABLE
 
-DML: (Llenguatge de manipulació de dades): INSERT, UPDATE, DELETE, SELECT, COMMIT
+DML: (Llenguatge de manipulaciÃ³ de dades): INSERT, UPDATE, DELETE, SELECT, COMMIT
 , ROLLBACK;
 
 Llenguatge DCL: CREATE USER, GRANT, REVOKE, CREATE ROLE, CREATE PROFILE, DROP ROLE, DROP PROFILE
 
-RA2 (Extendre el SQL a llenguatge de programació, SQL-HOST, PL-SQL)
+RA2 (Extendre el SQL a llenguatge de programaciÃ³, SQL-HOST, PL-SQL)
 
 Procedural Language (Standard query language)
 
-Instrucción 1;
-Instrucción 2;
-Instrucción 3;
+InstrucciÃ³n 1;
+InstrucciÃ³n 2;
+InstrucciÃ³n 3;
 
 --- if (condicion) {si es verdad;}
     else  {si es falso;}
